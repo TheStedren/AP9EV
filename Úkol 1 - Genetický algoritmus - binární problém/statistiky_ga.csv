@@ -1,0 +1,7 @@
+﻿Problém;D (Délka);Nejlepší;Nejhorší;Průměr;Medián;Směrodatná odchylka
+One-Max;10;10;10;10.0;10.0;0.0
+One-Max;30;30;30;30.0;30.0;0.0
+One-Max;100;100;100;100.0;100.0;0.0
+Leading-Ones;10;10;10;10.0;10.0;0.0
+Leading-Ones;30;30;30;30.0;30.0;0.0
+Leading-Ones;100;70;40;53.3;52.5;7.21
